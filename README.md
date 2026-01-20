@@ -17,14 +17,6 @@ This project performs basic CRUD operations (Create, Read, Delete) on student re
 - IntelliJ IDEA
 - Git & GitHub
 
-## Project Structure
-StudentManagementJDBC
-├── src
-│   ├── DBConnection.java
-│   └── StudentManagement.java
-├── README.md
-└── .gitignore
-
 ## Output
 ====== Student Management ======
 1. Add Student
